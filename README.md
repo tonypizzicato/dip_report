@@ -1,0 +1,1 @@
+LaTeX document for diploma project
